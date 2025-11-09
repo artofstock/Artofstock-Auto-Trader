@@ -1,0 +1,5 @@
+{
+  "name": "Artofstock Auto Trader",
+  "description": "An automated stock trading bot that allows users to configure and run trading strategies based on technical indicators. It features real-time (simulated) price charts, portfolio tracking, trade history, and AI-powered market insights from Gemini.",
+  "requestFramePermissions": []
+}
